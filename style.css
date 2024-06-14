@@ -1,0 +1,142 @@
+nav{
+    display: flex;
+    
+}
+.ul{
+   margin-left: 8rem;
+   margin-top: 1.3rem;
+}
+.ul a{
+    margin-left: 2rem;
+    text-decoration: none;
+    color: #25CFFE;
+    font-size: 20px;
+    font-weight: 600;
+}
+.two{
+    margin-left: 2rem;
+    margin-top: 1.3rem;
+
+}
+.add{
+    margin-left: 2rem;
+    cursor: pointer;
+   font-size: 26px;
+}
+.add:hover{
+    display: none;
+}
+
+img{
+    height: 38px;
+    width: 130px;
+    margin-left: 1.4rem;
+    margin-top: 1.4rem;
+}
+#hr{
+    margin-top: 2rem;
+border-color: #25CFFE;
+}
+h1{
+    color: #212D45;
+    font: 30px;
+    margin-top: 5rem;
+    font-weight: 600;
+    margin-left: 2rem;
+}
+.imgone{
+    height: 730px;
+    width: 1200px;
+  margin-left: 8rem;
+}
+h4{
+    font-size: larger;
+    font-weight: 600;
+}
+.twomain{
+    margin-left: 3rem;
+}
+p{
+    font-size: 22px;
+    font-weight: 500;
+    color: #4B4F58;
+}
+li{
+    color: #4B4F58;
+    font-size: 21px;
+    font-weight: 500;
+}
+span{
+    font-weight: bolder;
+}
+.head{
+    font-size: 45px;
+    color: #212D45;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 17rem;
+}
+.imgset{
+    display: flex;
+    justify-content: space-evenly;
+}
+.twosetimg {
+    margin-top: 4rem;
+    font-size: 54px;
+    color: #212D45;
+  }
+
+  .logoimg{
+    display: flex;
+    justify-content: center;
+  }
+
+  .set{
+    font-size: 50px;
+    padding: 6px;
+    margin-top: 3rem;
+    cursor: pointer;
+  }
+  .one{
+    background-color:  #0077B5;
+    color: #ffff;
+    margin-right: 1rem;
+  }
+  .t{
+    background-color: #CD201f;
+    color: #ffff;
+    gap: 20px;
+  }
+  .three{
+    background-color: #E45b9f;
+    color: #ffff;
+    margin-right: 1rem;
+  }
+
+  footer {
+    position: static;
+    bottom: 0;
+    width: 100%;
+    margin-top: 2rem;
+    height:5rem; 
+    background-color: #007aff;          
+  }
+.icon{
+   margin-left: 70rem;
+   color: #ffff;
+   font-size: 24px;
+   margin-bottom: 2rem;
+   cursor: pointer;
+}
+.last-sec{
+    margin-top: 2rem;
+}
+.foot{
+    display: flex;
+}
+.inc{
+    margin-left: 19rem;
+    margin-top: 2rem;
+}
+.more{
+    margin-right: 1rem;
+}
